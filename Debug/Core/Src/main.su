@@ -1,0 +1,8 @@
+../Core/Src/main.c:275:13:MX_GPIO_Init	64	static
+../Core/Src/main.c:81:8:greeting_init	32	static
+../Core/Src/main.c:100:10:init	8	static
+../Core/Src/main.c:154:8:lv_example_label_1	8	static
+../Core/Src/main.c:334:6:Error_Handler	0	static,ignoring_inline_asm
+../Core/Src/main.c:237:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:200:6:SystemClock_Config	72	static
+../Core/Src/main.c:69:5:main	8	static

@@ -1,0 +1,11 @@
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:534:13:fill_blended	64	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:878:13:map_blended	72	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:210:13:fill_set_px	80	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:605:13:map_set_px	80	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:242:35:fill_normal	64	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:950:26:color_blend_true_color_additive	0	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:1003:26:color_blend_true_color_subtractive	0	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:1029:26:color_blend_true_color_multiply	0	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:641:35:map_normal	56	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:95:6:lv_draw_sw_blend	24	static
+../Drivers/lvgl/src/draw/sw/lv_draw_sw_blend.c:108:28:lv_draw_sw_blend_basic	80	static

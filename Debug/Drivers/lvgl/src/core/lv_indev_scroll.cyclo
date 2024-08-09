@@ -1,0 +1,12 @@
+lv_indev_scroll.c:553:13:scroll_limit_diff	7
+lv_indev_scroll.c:576:19:scroll_throw_predict_y	2
+lv_indev_scroll.c:591:19:scroll_throw_predict_x	2
+lv_indev_scroll.c:507:19:find_snap_point_y	12
+lv_indev_scroll.c:452:19:find_snap_point_x	12
+lv_indev_scroll.c:384:13:init_scroll_limits	12
+lv_indev_scroll.c:255:19:find_scroll_obj	45
+lv_indev_scroll.c:606:19:elastic_diff	24
+lv_indev_scroll.c:46:6:_lv_indev_scroll_handler	19
+lv_indev_scroll.c:109:6:_lv_indev_scroll_throw_handler	20
+lv_indev_scroll.c:220:12:lv_indev_scroll_throw_predict	5
+lv_indev_scroll.c:245:6:lv_indev_scroll_get_snap_dist	1

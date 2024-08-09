@@ -1,0 +1,5 @@
+LCDController.c:162:13:disp_flush	3
+LCDController.c:138:13:disp_init	1
+LCDController.c:51:6:lv_port_disp_init	1
+LCDController.c:147:6:disp_enable_update	1
+LCDController.c:154:6:disp_disable_update	1

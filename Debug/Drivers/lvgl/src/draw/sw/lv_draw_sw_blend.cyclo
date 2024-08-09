@@ -1,0 +1,11 @@
+lv_draw_sw_blend.c:534:13:fill_blended	15
+lv_draw_sw_blend.c:878:13:map_blended	17
+lv_draw_sw_blend.c:210:13:fill_set_px	7
+lv_draw_sw_blend.c:605:13:map_set_px	7
+lv_draw_sw_blend.c:242:35:fill_normal	30
+lv_draw_sw_blend.c:950:26:color_blend_true_color_additive	3
+lv_draw_sw_blend.c:1003:26:color_blend_true_color_subtractive	3
+lv_draw_sw_blend.c:1029:26:color_blend_true_color_multiply	3
+lv_draw_sw_blend.c:641:35:map_normal	30
+lv_draw_sw_blend.c:95:6:lv_draw_sw_blend	4
+lv_draw_sw_blend.c:108:28:lv_draw_sw_blend_basic	17
